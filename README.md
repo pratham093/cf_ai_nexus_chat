@@ -29,5 +29,5 @@ An intelligent AI chat assistant built on Cloudflare Workers with Llama 3 integr
 ### Steps
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/cf_ai_nexus_chat.git
+git clone https://github.com/pratham093/cf_ai_nexus_chat.git
 cd cf_ai_nexus_chat
